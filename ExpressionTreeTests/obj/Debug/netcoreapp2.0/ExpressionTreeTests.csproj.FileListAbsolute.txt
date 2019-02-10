@@ -1,0 +1,17 @@
+G:\Semester 5\Advanced .NET\Assignment_1_Updated\Assignment1\ExpressionTreeTests\obj\Debug\netcoreapp2.0\ExpressionTreeTests.csprojAssemblyReference.cache
+G:\Semester 5\Advanced .NET\Assignment_1_Updated\Assignment1\ExpressionTreeTests\obj\Debug\netcoreapp2.0\ExpressionTreeTests.csproj.CoreCompileInputs.cache
+G:\Semester 5\Advanced .NET\Assignment_1_Updated\Assignment1\ExpressionTreeTests\obj\Debug\netcoreapp2.0\ExpressionTreeTests.AssemblyInfoInputs.cache
+G:\Semester 5\Advanced .NET\Assignment_1_Updated\Assignment1\ExpressionTreeTests\obj\Debug\netcoreapp2.0\ExpressionTreeTests.AssemblyInfo.cs
+G:\Semester 5\Advanced .NET\Assignment_1_Updated\Assignment1\ExpressionTreeTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+G:\Semester 5\Advanced .NET\Assignment_1_Updated\Assignment1\ExpressionTreeTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+G:\Semester 5\Advanced .NET\Assignment_1_Updated\Assignment1\ExpressionTreeTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+G:\Semester 5\Advanced .NET\Assignment_1_Updated\Assignment1\ExpressionTreeTests\bin\Debug\netcoreapp2.0\ExpressionTreeTests.deps.json
+G:\Semester 5\Advanced .NET\Assignment_1_Updated\Assignment1\ExpressionTreeTests\bin\Debug\netcoreapp2.0\ExpressionTreeTests.runtimeconfig.json
+G:\Semester 5\Advanced .NET\Assignment_1_Updated\Assignment1\ExpressionTreeTests\bin\Debug\netcoreapp2.0\ExpressionTreeTests.runtimeconfig.dev.json
+G:\Semester 5\Advanced .NET\Assignment_1_Updated\Assignment1\ExpressionTreeTests\bin\Debug\netcoreapp2.0\ExpressionTreeTests.dll
+G:\Semester 5\Advanced .NET\Assignment_1_Updated\Assignment1\ExpressionTreeTests\bin\Debug\netcoreapp2.0\ExpressionTreeTests.pdb
+G:\Semester 5\Advanced .NET\Assignment_1_Updated\Assignment1\ExpressionTreeTests\bin\Debug\netcoreapp2.0\Assignment1.dll
+G:\Semester 5\Advanced .NET\Assignment_1_Updated\Assignment1\ExpressionTreeTests\bin\Debug\netcoreapp2.0\Assignment1.pdb
+G:\Semester 5\Advanced .NET\Assignment_1_Updated\Assignment1\ExpressionTreeTests\obj\Debug\netcoreapp2.0\ExpressionTreeTests.csproj.CopyComplete
+G:\Semester 5\Advanced .NET\Assignment_1_Updated\Assignment1\ExpressionTreeTests\obj\Debug\netcoreapp2.0\ExpressionTreeTests.dll
+G:\Semester 5\Advanced .NET\Assignment_1_Updated\Assignment1\ExpressionTreeTests\obj\Debug\netcoreapp2.0\ExpressionTreeTests.pdb
